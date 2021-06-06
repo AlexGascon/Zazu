@@ -1,2 +1,2 @@
 # Zazu
-Knowledge, spoken out loud
+Knowledge spoken out loud
